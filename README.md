@@ -22,7 +22,7 @@ While foundational accounting and bookkeeping topics are covered, there is also 
 - Networking Groups and Forums (TBD)
 - Job Boards and Career Resources (TBD)
 - Blogs and Opinion Pieces (TBD)
-- News Outlets and Publications (TBD)
+- [News Outlets and Publications](News-Outlets-and-Publications.md)
 - Research Papers and Journals (TBD)
 - Investment and Financial Planning Resources (TBD)
 - Surveys and Industry Reports (TBD)

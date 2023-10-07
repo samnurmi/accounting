@@ -11,6 +11,9 @@ This article aims to list various government resources and public records that a
 3. [United Kingdom (UK)](#united-kingdom-uk)
 4. [Germany (DE)](#germany-de)
 5. [Sweden](#sweden)
+6. [Finland](#finland)
+7. [Norway](#norway)
+8. [Denmark](#denmark)
 
 ---
 
@@ -61,6 +64,28 @@ This article aims to list various government resources and public records that a
 - [Swedish Financial Supervisory Authority (Finansinspektionen)](https://www.fi.se/)
 - [Statistics Sweden (SCB)](https://www.scb.se/)
 - [Swedish Pensions Agency (Pensionsmyndigheten)](https://www.pensionsmyndigheten.se/)
+- [Verksamt.se](https://www.verksamt.se/)
 
----
+## Finland
 
+- [Finnish Tax Administration (Vero)](https://www.vero.fi/en/)
+- [Finnish Patent and Registration Office (PRH)](https://www.prh.fi/en.html)
+- [Financial Supervisory Authority (FIN-FSA)](https://www.finanssivalvonta.fi/en/)
+- [Statistics Finland (Tilastokeskus)](https://www.stat.fi/index_en.html)
+- [Finnish Centre for Pensions (ETK)](https://www.etk.fi/en/)
+
+## Norway
+
+- [Norwegian Tax Administration (Skatteetaten)](https://www.skatteetaten.no/en/)
+- [The Brønnøysund Register Centre (Brønnøysundregistrene)](https://www.brreg.no/)
+- [Financial Supervisory Authority of Norway (Finanstilsynet)](https://www.finanstilsynet.no/en/)
+- [Statistics Norway (Statistisk sentralbyrå)](https://www.ssb.no/en/)
+- [Norwegian Labour and Welfare Administration (NAV)](https://www.nav.no/en/Home)
+
+## Denmark
+
+- [Danish Tax Agency (Skattestyrelsen)](https://www.skat.dk/skat.aspx?oid=2244912)
+- [Danish Business Authority (Erhvervsstyrelsen)](https://erhvervsstyrelsen.dk/en)
+- [Danish Financial Supervisory Authority (Finanstilsynet)](https://www.dfsa.dk/)
+- [Statistics Denmark (Danmarks Statistik)](https://www.dst.dk/en)
+- [Danish Agency for Labour Market and Recruitment (Styrelsen for Arbejdsmarked og Rekruttering)](https://star.dk/en/)
