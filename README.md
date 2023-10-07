@@ -35,4 +35,5 @@ While foundational accounting and bookkeeping topics are covered, there is also 
 - Open Source Projects and Repositories (TBD)
 - Review and Comparison Sites (TBD)
 - AI and Automation Trends (TBD)
-- Data Standards and Reporting Frameworks
+- [Data Standards and Reporting Frameworks](Data-Standards-and-Reporting-Frameworks.md)
+- [tbd.md](tbd.md)
