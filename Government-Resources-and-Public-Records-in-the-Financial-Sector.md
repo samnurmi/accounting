@@ -6,14 +6,11 @@ This article aims to list various government resources and public records that a
 
 ## Table of Contents
 
-1. [United States (US)](#united-states-us)
-2. [Canada (CA)](#canada-ca)
-3. [United Kingdom (UK)](#united-kingdom-uk)
-4. [Germany (DE)](#germany-de)
-5. [Sweden](#sweden)
-6. [Finland](#finland)
-7. [Norway](#norway)
-8. [Denmark](#denmark)
+1. [United States (US)](##united-states-us)
+2. [Canada (CA)](##canada-ca)
+3. [United Kingdom (UK)](##united-kingdom-uk)
+4. [Germany (DE)](##germany-de)
+5. [Sweden](##sweden)
 
 ---
 
