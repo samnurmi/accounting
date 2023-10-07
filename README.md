@@ -9,8 +9,8 @@ While foundational accounting and bookkeeping topics are covered, there is also 
 ## Table of Contents
 
 - Books (TBD)
-- [Accounting Industry Standards](Accounting-Industry-Standards.md)]
-- Organizations and Associations (TBD)
+- Accounting Industry Standards (TBD)
+- [Organizations and Associations](Organizations-and-Associations-in-the-Financial-Sector.md)
 - Podcasts (TBD)
 - Literature (TBD)
 - Education and Courses (TBD)
